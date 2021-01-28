@@ -1,5 +1,5 @@
-Мой курс по Selenium Auto-Test
+Мой первый курс по Selenium Auto-Test
 ==================
-*Just my homework*
+*My homework*
 
 [Ссылка на курс](https://stepik.org/course/575/info, "Курс на Stepik")
